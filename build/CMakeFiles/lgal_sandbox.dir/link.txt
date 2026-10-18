@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/lgal_sandbox.dir/examples/main.cpp.o -o lgal_sandbox  -Wl,-rpath,/home/jw4/Documents/lgal/build liblgal.so.0.1.0 /usr/lib/x86_64-linux-gnu/libwayland-client.so 
