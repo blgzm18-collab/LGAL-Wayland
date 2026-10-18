@@ -1,0 +1,10 @@
+/home/jw4/Documents/lgal/build/CMakeFiles/lgal.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/lgal_sandbox.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/run.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/lgal_input_demo.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/edit_cache.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/rebuild_cache.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/list_install_components.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/install.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/install/local.dir
+/home/jw4/Documents/lgal/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+bf5eade8b8df8b09aae3bd4f05930d7d CMakeFiles/run
+7f5832ce0aa4249face8f46261a2f959 generated/xdg-decoration-unstable-v1-client-protocol.h
+94d72d97d55db88f7c538af1c1c5b3c6 generated/xdg-shell-client-protocol.h

@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/c++ -Dlgal_EXPORTS -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -I/home/jw4/Documents/lgal/src -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/lgal.dir/src/lgal_c_window.cpp.o -c /home/jw4/Documents/lgal/src/lgal_c_window.cpp",
+  "file": "/home/jw4/Documents/lgal/src/lgal_c_window.cpp",
+  "output": "CMakeFiles/lgal.dir/src/lgal_c_window.cpp.o"
+},
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/c++ -Dlgal_EXPORTS -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -I/home/jw4/Documents/lgal/src -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/lgal.dir/src/lgal_input.cpp.o -c /home/jw4/Documents/lgal/src/lgal_input.cpp",
+  "file": "/home/jw4/Documents/lgal/src/lgal_input.cpp",
+  "output": "CMakeFiles/lgal.dir/src/lgal_input.cpp.o"
+},
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/c++ -Dlgal_EXPORTS -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -I/home/jw4/Documents/lgal/src -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/lgal.dir/src/lgal_shm.cpp.o -c /home/jw4/Documents/lgal/src/lgal_shm.cpp",
+  "file": "/home/jw4/Documents/lgal/src/lgal_shm.cpp",
+  "output": "CMakeFiles/lgal.dir/src/lgal_shm.cpp.o"
+},
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/c++ -Dlgal_EXPORTS -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -I/home/jw4/Documents/lgal/src -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/lgal.dir/src/lgal_window.cpp.o -c /home/jw4/Documents/lgal/src/lgal_window.cpp",
+  "file": "/home/jw4/Documents/lgal/src/lgal_window.cpp",
+  "output": "CMakeFiles/lgal.dir/src/lgal_window.cpp.o"
+},
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/cc -Dlgal_EXPORTS -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -I/home/jw4/Documents/lgal/src -O3 -DNDEBUG -std=gnu11 -fPIC -o CMakeFiles/lgal.dir/generated/xdg-shell-protocol.c.o -c /home/jw4/Documents/lgal/build/generated/xdg-shell-protocol.c",
+  "file": "/home/jw4/Documents/lgal/build/generated/xdg-shell-protocol.c",
+  "output": "CMakeFiles/lgal.dir/generated/xdg-shell-protocol.c.o"
+},
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/cc -Dlgal_EXPORTS -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -I/home/jw4/Documents/lgal/src -O3 -DNDEBUG -std=gnu11 -fPIC -o CMakeFiles/lgal.dir/generated/xdg-decoration-unstable-v1-protocol.c.o -c /home/jw4/Documents/lgal/build/generated/xdg-decoration-unstable-v1-protocol.c",
+  "file": "/home/jw4/Documents/lgal/build/generated/xdg-decoration-unstable-v1-protocol.c",
+  "output": "CMakeFiles/lgal.dir/generated/xdg-decoration-unstable-v1-protocol.c.o"
+},
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/c++  -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -o CMakeFiles/lgal_sandbox.dir/examples/main.cpp.o -c /home/jw4/Documents/lgal/examples/main.cpp",
+  "file": "/home/jw4/Documents/lgal/examples/main.cpp",
+  "output": "CMakeFiles/lgal_sandbox.dir/examples/main.cpp.o"
+},
+{
+  "directory": "/home/jw4/Documents/lgal/build",
+  "command": "/usr/bin/c++  -I/home/jw4/Documents/lgal/include -I/home/jw4/Documents/lgal/build/generated -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -o CMakeFiles/lgal_input_demo.dir/examples/input_demo.cpp.o -c /home/jw4/Documents/lgal/examples/input_demo.cpp",
+  "file": "/home/jw4/Documents/lgal/examples/input_demo.cpp",
+  "output": "CMakeFiles/lgal_input_demo.dir/examples/input_demo.cpp.o"
+}
+]
